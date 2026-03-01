@@ -2,7 +2,7 @@
 
 Welcome — this is my GitHub profile! I'm passionate about building reliable, maintainable software and collaborating on open-source projects that solve real problems. Here you'll find my work, what I care about, and how to collaborate with me.
 
-## 🚀 About Me
+🚀 About Me
 - I'm a Software Engineer who loves turning ideas into production-ready systems.
 - I focus on building clean, well-tested software with an emphasis on [primary focus — e.g., backend systems, developer tools, ML pipelines, front-end UX].
 - Currently working on: **[Fullstack Developer / Kodingin]**.
