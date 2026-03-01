@@ -4,23 +4,23 @@ Welcome — this is my GitHub profile! I'm passionate about building reliable, m
 
 🚀 About Me
 - I'm a Software Engineer who loves turning ideas into production-ready systems.
-- I focus on building clean, well-tested software with an emphasis on [primary focus — e.g., backend systems, developer tools, ML pipelines, front-end UX].
+- I focus on building clean, well-tested software with an emphasis on  backend systems, developer tools, ML pipelines, front-end UX.
 - Currently working on: **[Fullstack Developer / Kodingin]**.
 
 
-## 💡 Top Skills
-- Languages: **JavaScript / TypeScript**, **Python**, **Go** (replace with your languages)
+💡 Top Skills
+- Languages: **JavaScript / TypeScript**, **Python**, **Go** 
 - Frameworks & Tools: **React**, **Node.js**, **Docker**, **Kubernetes**, **Terraform**
 - Interests: **Distributed systems**, **infra as code**, **developer experience**, **observability**
 
 
-## 🛠 How I Work
+🛠 How I Work
 - Code quality: tests, type-checking, CI automation
 - Communication: clear PR descriptions, small iterative changes, docs-first when possible
 - Collaboration: open to pair-programming, code reviews, mentoring
 
 
-## 🤝 Let’s Collaborate
+🤝 Let’s Collaborate
 - Open to: consulting, mentoring, contract work, or full-time opportunities
 - Preferred contact: ghipato@gmail.com 
 
@@ -31,8 +31,7 @@ Welcome — this is my GitHub profile! I'm passionate about building reliable, m
 - LinkedIn: https://linkedin.com/in/ghivary-pappo
 - Email: ghipato@gmail.com
 
-
-## 💬 Fun Facts
+💬 Fun Facts
 - I love football
 - Favorite language to speak: Spanish
 - Football enthusiast 
