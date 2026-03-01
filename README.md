@@ -28,10 +28,8 @@ Welcome — this is my GitHub profile! I'm passionate about building reliable, m
 
 ## 📫 Connect with Me
 - Website: https://your-website.example
-- LinkedIn: https://linkedin.com/in/your-profile
-- Twitter/X: https://twitter.com/your-handle
-- Mastodon: @yourhandle@mastodon.social
-- Email: your-email@example.com
+- LinkedIn: https://linkedin.com/in/ghivary-pappo
+- Email: ghipato@gmail.com
 
 
 ## 💬 Fun Facts
